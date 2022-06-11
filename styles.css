@@ -7,7 +7,7 @@ body {
 
 .header {
     padding: 1rem;
-    background-color: #380f5c;
+    background-color: hsl(214, 100%, 42%);
 }
 
 .header-text {
@@ -20,7 +20,7 @@ body {
 }
 
 .about-me-text {
-    color: #6619a8;
+    color: #08b1c7;
     padding-left: 1rem;
     max-width: 50%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
